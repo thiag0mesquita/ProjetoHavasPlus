@@ -3,7 +3,7 @@
 Projeto desenvolvido com aplicação web para listagem e visualização de postagens com duas views; uma listando todos os posts a partir de uma chamada de API e outra exibindo na interna do post o title e o body.
 
 ## Código
-O projeto foi desenvolvido em JavaScript utilizando as bibliotecas BootStrap e Jquery. O código consiste na chamada da API, utilizando ```fetch```, solicitando a listagem de todos os posts por meio do ```forEach```, obtendo a descrição completa por ID, e estabelecendo os parâmetros no inicio do código.  
+O projeto foi desenvolvido em JavaScript utilizando as bibliotecas BootStrap e Jquery. O código consiste na chamada da API, utilizando ```fetch```, solicitando a listagem de todos os posts por meio do ```forEach```, obtendo a descrição completa por ID e estabelecendo os parâmetros no inicio do código.  
 
 Para iniciar a aplicação basta você executar o arquivo ```index.html```
 
