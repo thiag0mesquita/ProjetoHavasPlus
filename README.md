@@ -13,3 +13,5 @@ Testar novos tipos de requisições para a API afim de otimizar a performance e 
 
 ## O que poderia ter melhorado?
 
+Poderia ter melhorado a parte visual do projeto. 
+
