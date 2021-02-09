@@ -1,0 +1,22 @@
+.card-post {
+    margin-bottom: 30px;
+    height: 302px;
+    position: relative;
+    
+}
+
+.card-text-post{
+    height: 100px;
+    overflow: auto;
+}
+
+.btn{
+    position: absolute;
+    bottom: 20px;
+}
+
+.card-id{
+    margin-top: 20px;
+    height: 500px;
+ 
+}
